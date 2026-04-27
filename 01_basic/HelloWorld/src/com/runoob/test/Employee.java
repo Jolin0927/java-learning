@@ -1,4 +1,5 @@
-import java.io.*;
+package com.runoob.test;
+
 public class Employee {
     private String name;
     private int age;

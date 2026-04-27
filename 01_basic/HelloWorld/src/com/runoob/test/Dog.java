@@ -1,3 +1,5 @@
+package com.runoob.test;
+
 public class Dog {
     String breed;
     int size;
