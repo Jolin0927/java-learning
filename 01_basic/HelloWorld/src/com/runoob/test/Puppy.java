@@ -1,3 +1,5 @@
+package com.runoob.test;
+
 public class Puppy {
     private int age;
     private String name;
